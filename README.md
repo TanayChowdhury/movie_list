@@ -14,7 +14,7 @@ Clone or download the project from github repository to a folder in the local sy
 
 ## Executing the project
 ##### Method 1
-*   Run the 'media.py' file directly by double clicking it or selecting 'Open' in the right clcik menu.
+*   Run the 'media.py' file directly by double clicking it or selecting 'Open' in the right click menu.
 
 ##### Method 2
 *   Open the "Command Prompt" in WIndows or "Terminal" in Linux based OS.
@@ -25,4 +25,4 @@ python media.py
 ```
 
 ## Output
-The default web browser in the local system will open up on completing any one of the above methods and a movie trailer website featuring the movie lists stored in the 'media.py' file will pop up. 
+The default web browser in the local system will open up on completion of any one of the above executing methods and a movie trailer website featuring the movie lists stored in the 'media.py' file will pop up. 
